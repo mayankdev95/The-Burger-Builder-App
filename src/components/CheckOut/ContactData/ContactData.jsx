@@ -183,7 +183,7 @@ orderForm[key] = orderInput
         }
         return(<div className={style.ContactData}>
             <h4>Enter your Contact Details</h4>
-           {form}
+           {form} 
             </div>)
     }
 }
